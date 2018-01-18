@@ -1,0 +1,10 @@
+/home/bobbyanne/Documents/Csharp/challenges/bin/Debug/netcoreapp2.0/challenges.deps.json
+/home/bobbyanne/Documents/Csharp/challenges/bin/Debug/netcoreapp2.0/challenges.runtimeconfig.json
+/home/bobbyanne/Documents/Csharp/challenges/bin/Debug/netcoreapp2.0/challenges.runtimeconfig.dev.json
+/home/bobbyanne/Documents/Csharp/challenges/bin/Debug/netcoreapp2.0/challenges.dll
+/home/bobbyanne/Documents/Csharp/challenges/bin/Debug/netcoreapp2.0/challenges.pdb
+/home/bobbyanne/Documents/Csharp/challenges/obj/Debug/netcoreapp2.0/challenges.csproj.CoreCompileInputs.cache
+/home/bobbyanne/Documents/Csharp/challenges/obj/Debug/netcoreapp2.0/challenges.AssemblyInfoInputs.cache
+/home/bobbyanne/Documents/Csharp/challenges/obj/Debug/netcoreapp2.0/challenges.AssemblyInfo.cs
+/home/bobbyanne/Documents/Csharp/challenges/obj/Debug/netcoreapp2.0/challenges.dll
+/home/bobbyanne/Documents/Csharp/challenges/obj/Debug/netcoreapp2.0/challenges.pdb
